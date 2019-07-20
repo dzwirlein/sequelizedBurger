@@ -1,5 +1,5 @@
 {
-  "name": "eat_the_burger",
+  "name": "sequelizedburger",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,18 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dzwirlein/eat_the_burger.git"
+    "url": "git+https://github.com/dzwirlein/sequelizedBurger.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dzwirlein/eat_the_burger/issues"
+    "url": "https://github.com/dzwirlein/sequelizedBurger/issues"
   },
-  "homepage": "https://github.com/dzwirlein/eat_the_burger#readme",
+  "homepage": "https://github.com/dzwirlein/sequelizedBurger#readme",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
     "method-override": "^3.0.0",
-    "mysql": "^2.17.1"
+    "mysql2": "^1.6.5",
+    "nodemon": "^1.19.1",
+    "sequelize": "^5.10.1"
   }
 }
