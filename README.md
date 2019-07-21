@@ -4,7 +4,7 @@
 
 App Screen Shot
 
-![screenshot](public/assets/img/)
+![screenshot](public/assets/img/Eat the Burger.JPG)
 
 
 
