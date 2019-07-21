@@ -4,7 +4,7 @@
 
 App Screen Shot
 
-![screenshot](/assets/img/Eat the Burger.JPG)
+![screenshot](https://raw.githubusercontent.com/dzwirlein/sequelizedBurger/master/public/assets/img/Eat%20the%20Burger.JPG)
 
 
 
