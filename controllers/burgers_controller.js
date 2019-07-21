@@ -16,7 +16,7 @@ router.get("/", function(req, res) {
 
   router.post('/burgers/create', function(req, res) {
     db.burger.create({
-        burger_name: req.body.name
+        burger_name: req.body.burger_name
       })
       .then(function() {
        
